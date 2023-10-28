@@ -2,11 +2,11 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetworkApp.Api", "src\SocialNetworkApp.Api\SocialNetworkApp.Api.csproj", "{8E7FF7D9-693C-4D1B-8C95-DD9CE66ADD87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetworkApp.Application", "SocialNetworkApp.Application\SocialNetworkApp.Application.csproj", "{986C8F60-6424-438F-B989-C1CC0C92970E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetworkApp.Application", "src\SocialNetworkApp.Application\SocialNetworkApp.Application.csproj", "{986C8F60-6424-438F-B989-C1CC0C92970E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetworkApp.Domain", "SocialNetworkApp.Domain\SocialNetworkApp.Domain.csproj", "{1EF38225-CDF9-4458-A1C2-EF546FED3F3D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetworkApp.Domain", "src\SocialNetworkApp.Domain\SocialNetworkApp.Domain.csproj", "{1EF38225-CDF9-4458-A1C2-EF546FED3F3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetworkApp.Persistence", "SocialNetworkApp.Persistence\SocialNetworkApp.Persistence.csproj", "{63A3C5E5-3D5D-4558-82C0-3A5032640019}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetworkApp.Persistence", "src\SocialNetworkApp.Persistence\SocialNetworkApp.Persistence.csproj", "{63A3C5E5-3D5D-4558-82C0-3A5032640019}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
