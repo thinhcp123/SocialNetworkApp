@@ -18,4 +18,12 @@
       </Content>
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Controllers\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\SocialNetworkApp.Application\SocialNetworkApp.Application.csproj" />
+    </ItemGroup>
+
 </Project>
